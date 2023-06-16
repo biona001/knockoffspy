@@ -15,7 +15,7 @@ def _find_julia():
     return shutil.which("julia")
 
 
-def install(*, confirm=False):
+def install(*, confirm=True):
     """
     Install Julia (if required) and Julia packages required for diffeqpy.
     """

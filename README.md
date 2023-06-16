@@ -5,6 +5,11 @@ An interface to [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl) from th
 ## Installation
 
 To install `knockoffspy`, use pip:
-```python
+```
 pip install knockoffspy
+```
+Then in the python interpreter,
+```python
+>>> import knockoffspy
+>>> knockoffspy.install()
 ```
