@@ -22,6 +22,6 @@ setup(name='knockoffspy',
       author_email='bbchu@stanford.edu',
       license='MIT',
       packages=['knockoffspy',''],
-      install_requires=['julia>=1.8', 'jill'],
+      install_requires=['julia>=0.2', 'jill'],
       include_package_data=True,
       zip_safe=False)
