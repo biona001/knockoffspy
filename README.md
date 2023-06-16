@@ -21,7 +21,11 @@ Import the package as
 ```python
 from knockoffspy import ko
 ```
-The general flow for using the package is to follow exactly as would be done in Julia, except add `ko.` in front. Most of the commands will work without any modification. Thus the [Knockoffs.jl documentation](https://biona001.github.io/Knockoffs.jl/dev/) are the main in-depth documentation for this package. Below we will show how to translate these docs to Python code.
+The general flow for using the package is to follow exactly as would be done in Julia, except add `ko.` in front of function calls. Most of the commands will work without any modification. Thus the [Knockoffs.jl documentation](https://biona001.github.io/Knockoffs.jl/dev/) is the main in-depth documentation for this package. Below we will show how to translate these docs to Python code.
+
+## Documentation
+
+Most of the commands of `Knockoffs.jl` will work in python without any modification, just add `ko.` in front of function calls. Thus the [Knockoffs.jl documentation](https://biona001.github.io/Knockoffs.jl/dev/) is the main in-depth documentation for this package. Below we will show how to translate these docs to Python code.
 
 ## Example: Exact model-X group knockoffs
 
