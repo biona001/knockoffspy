@@ -4,9 +4,9 @@ An interface to [Knockoffs.jl](https://github.com/biona001/Knockoffs.jl) from th
 
 ## Installation
 
-`knockoffspy` is not on PyPI yet. To install `knockoffspy`, use pip to clone from Github:
+To install `knockoffspy`, use pip
 ```
-pip install git+https://github.com/biona001/knockoffspy.git
+pip install knockoffspy
 ```
 Then in the python interpreter,
 ```python

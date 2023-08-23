@@ -2,3 +2,6 @@
 knockoffspy.egg-info
 knockoffspy/__pycache__
 *.pyc
+build*
+dist*
+env*
