@@ -78,3 +78,8 @@ Xko = result.Xko
 S = result.S
 obj = result.obj
 ```
+
+
+## Citation and reproducibility
+
+If you use this software in a research paper, please cite [our paper](https://arxiv.org/abs/2310.15069). Scripts to reproduce the results featured in our paper can be found [here](https://github.com/biona001/group-knockoff-reproducibility).
